@@ -10,7 +10,7 @@ NTRIP credentials are what your miner uses to stream GNSS data to the onocoy net
 
 1. Go to [Reference Stations](https://console.onocoy.com/servers) and select the tab „NTRIP Credentials“. Click on „Add new credential“. Select a password and add a description about how and where you are using these credentials, if you like. Note: the username will be generated automatically. Create new credentials for each station that you would like to connect.<br>
 2. Your NTRIP credentials will be generated:
-   * Host: data.onocoy.com
+   * Host: servers.onocoy.com
    * Port: 2101
    * Username: (your generated username)
    * Password: (your generated password)
