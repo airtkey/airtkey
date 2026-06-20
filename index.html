@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>airtkey Dokumentation</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Dokumentation von airtkey">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <!-- Schickes, sauberes Design-Theme -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Lade Dokumentation...</div>
+  <script>
+    window.$docsify = {
+      name: 'airtkey',
+      repo: 'https://github.com/airtkey/airtkey',
+      loadSidebar: true,
+      // Dieser Trick sorgt dafür, dass Docsify das GitBook-Inhaltsverzeichnis (SUMMARY.md) nutzt!
+      alias: {
+        '/.*/_sidebar.md': '/SUMMARY.md',
+        '/_sidebar.md': '/SUMMARY.md'
+      },
+      subMaxLevel: 2,
+      auto2top: true
+    }
+  </script>
+  <!-- Docsify Engine -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>
