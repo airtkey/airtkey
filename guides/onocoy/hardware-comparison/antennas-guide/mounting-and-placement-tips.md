@@ -65,7 +65,6 @@ A rooftop position typically gives you:
 | Trees                 | Absorb and scatter GPS signals     |
 | Mountains / hills     | Hard horizon obstruction           |
 | Metal surfaces nearby | Cause strong multipath reflections |
-| Windows (indoor)      | Glass blocks many GNSS frequencies |
 | Under roof overhangs  | Cuts off large parts of the sky    |
 
 ***
