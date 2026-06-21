@@ -117,19 +117,6 @@ Configuration sent successfully!
 {% endstep %}
 {% endstepper %}
 
-## 🔬 What the Configuration Does
-
-The `UM980_RTCM3_OUT.txt` file contains these key commands:
-
-| Command         | Purpose                             |
-| --------------- | ----------------------------------- |
-| `ECUTOFF 90`    | Set satellite cut-off angle to 90°  |
-| `MODE BASE`     | Set device to Base Station mode     |
-| `RNXGENEPH 30`  | Generate ephemeris every 30 seconds |
-| `RTKMODE FIXED` | Fixed RTK mode for base station     |
-| `COMMConfig`    | Configure serial communication      |
-| `NMEAConfig`    | Configure NMEA output               |
-
 ## 🔧 Troubleshooting
 
 | Problem               | Solution                                   |
