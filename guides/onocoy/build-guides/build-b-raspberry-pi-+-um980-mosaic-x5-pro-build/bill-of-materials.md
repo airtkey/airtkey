@@ -45,7 +45,7 @@ The u-blox ZED-X20P does **not** support GLONASS and is therefore **not suitable
 | Configuration       | Est. Total |
 | ------------------- | ---------- |
 | **UM980 Build**     | \~€280-350 |
-| **Mosaic-X5 Build** | \~€520-580 |
+| **Mosaic-X5 Build** | \~€520-763 |
 
 ## 📦 Where to Buy
 
