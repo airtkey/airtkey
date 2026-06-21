@@ -78,7 +78,7 @@ http://192.168.4.1
 | Username   | Your credential                      |
 | Password   | Your credential password             |
 
-> ⚠️ **Important:** Get these values from your onocoy dashboard at [app.onocoy.com](https://app.onocoy.com/)!
+> ⚠️ **Important:** Get these values from your onocoy dashboard at [console.onocoy.com](https://console.onocoy.com) !
 {% endstep %}
 
 {% step %}
