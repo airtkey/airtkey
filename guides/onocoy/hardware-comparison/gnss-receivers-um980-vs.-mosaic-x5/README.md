@@ -35,8 +35,7 @@ The GNSS receiver is the heart of your mining station. It determines how accurat
 | Price                  | \~ 100€                | \~ 450 - 600€              |
 | Constellations         | GPS, GLONASS,          | GPS, GLONASS,              |
 |                        | Galileo, BeiDou        | Galileo, BeiDou            |
-| Tracking Channels      | 1408                   | 448                        |
-| Multi-frequency        | L1, L2, L5             | L1, L2, L5, L6             |
+| Multi-frequency        | L1, L2, L5             | L1, L2, L5,                |
 | Anti-Jamming           | Basic                  | Advanced (AIM+)            |
 | Anti-Spoofing          | ❌                      | ✅                          |
 | onocoy Quality Score   | Good                   | Excellent                  |
