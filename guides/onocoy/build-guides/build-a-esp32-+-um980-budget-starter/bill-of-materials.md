@@ -44,14 +44,14 @@
 ## 💰 Cost Summary
 
 ```
-Hardware Total:       ~83–124€
+Hardware Total:       ~100–124€
 Tools (one-time):     ~30–50€ (if not already owned)
 =================================
-Estimated Start:      ~85–140€
+Estimated Start:      ~100–174€
 ```
 
 {% hint style="info" %}
-**Tip:** You may already own most tools! The only mandatory new purchase is the ESP32 + UM980 combo (\~63–82€).
+**Tip:** You may already own most tools! The only mandatory new purchase is the ESP32 + UM980 combo (\~100–120€).
 {% endhint %}
 
 > 🔗 **Pro Tip:** Buy everything from AliExpress if you're patient — saves \~30% vs. Amazon. Use a multi-item order to reduce shipping costs.
