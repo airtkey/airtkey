@@ -156,7 +156,7 @@ Wait for the installation to complete, then proceed to configuration.
 | **Password**                  | Your credential password (not your dashboard passwort!) |
 
 {% hint style="info" %}
-Get your onocoy credentials from your [onocoy Dashboard](https://www.onocoy.com/).
+Get your onocoy credentials from your [onocoy Dashboard](https://console.onocoy.com).
 {% endhint %}
 
 ###
@@ -222,7 +222,7 @@ sudo /home/pi/rtkbase/scripts/update.sh
 
 ## 🔧 Advanced Configuration
 
-### Change Communication Speed
+### Change Communication Speed ( for Mosaic-X5)
 
 For lower latency, increase the baud rate:
 
