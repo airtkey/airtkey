@@ -36,15 +36,15 @@ Desktop/
 {% endstep %}
 
 {% step %}
-## Step 2: Install the CH340 Driver
+## Step 2: Install the  Driver
 
 {% hint style="warning" %}
 **Required only if UM980 isn't detected as a COM port.**
 {% endhint %}
 
 1. Open the `Driver` folder inside `GPS MODULE`
-2. Right-click on `silabser.inf`
-3. Select **"Install"**
+2. Unzip the `um980_driver`&#x20;
+3. Install it
 4. Grant administrator privileges if prompted
 {% endstep %}
 
@@ -65,7 +65,7 @@ Desktop/
 
 1. Open **Device Manager** (Press `Win + X` → Device Manager)
 2. Expand **"Ports (COM & LPT)"**
-3. Look for **"USB-Enhanced-SERIAL CH340"** (or similar)
+3. Look for **"USB-Enhanced-SERIAL CH341"** (or similar)
 4. Note the COM port number (e.g., `COM5`)
 
 ```
@@ -122,7 +122,7 @@ Configuration sent successfully!
 | Problem               | Solution                                   |
 | --------------------- | ------------------------------------------ |
 | "Access denied" error | Run Terminal as Administrator              |
-| COM port not found    | Check USB connection, install CH340 driver |
+| COM port not found    | Check USB connection, install CH341 driver |
 | Configuration fails   | Check COM port number is correct           |
 | No output shown       | Try a different COM port, check USB cable  |
 | Device not responding | Unplug/replug USB, try different port      |
