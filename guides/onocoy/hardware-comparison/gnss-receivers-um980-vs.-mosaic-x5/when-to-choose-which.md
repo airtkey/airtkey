@@ -67,7 +67,7 @@ Not sure which GNSS receiver is right for you? This guide helps you decide based
 * Higher daily rewards due to better quality score
 * Pays off over time through increased ONO earnings
 
-> 📊 Based on real data, the Mosaic-X5 achieves \~18-23% higher quality scores than the UM980. 👉 See [Performance Metrics & Real Data](../../performance-and-optimization/)
+> 📊 Based on real data, the Mosaic-X5 achieves \~18-23% higher quality scores than the UM980. 👉 See [Performance Metrics & Real Data](../../performance-and-optimization-coming-soon/)
 
 ***
 
