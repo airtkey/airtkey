@@ -82,7 +82,7 @@ The Mosaic-X5 by Septentrio is a professional-grade GNSS receiver used in survey
 
 ✅ Extremely reliable 24/7 operation
 
-**Weaknesses:** ❌ Higher price (\~250-350€) ❌ Requires Raspberry Pi (not compatible with ESP32) ❌ Overkill for casual miners
+**Weaknesses:** ❌ Higher price (\~350-500€) ❌ Requires Raspberry Pi (not compatible with ESP32) ❌ Overkill for casual miners
 
 > 💡 Best choice if you want maximum rewards and plan to run a serious long-term mining station.
 
