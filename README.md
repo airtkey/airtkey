@@ -27,7 +27,7 @@ layout:
 
 ## AirTkey's DIY DePIN Guides
 
-Built and maintained by Alexander Gretz — Tech Ambassador & DePIN operator based in Bavaria, Germany.
+Built and maintained by Alexander Gretz — DePIN operator based in Bavaria, Germany, and Tech Ambassador for onocoy and Ambassador Wingbits
 
 ***
 
@@ -57,25 +57,25 @@ Today I operate DePIN nodes across multiple networks and serve as Tech Ambassado
 
 **🤝 My Ambassador Roles**
 
-* 🛰️ **onocoy** — GNSS/RTK Positioning Network | _Tech Ambassador & DIY Guide Creator_
-* ✈️ **Wingbits** — ADS-B Flight Tracking | _Ambassador_
+* 🛰️ [**onocoy** ](https://onocoy.com/)— GNSS/RTK Positioning Network | _Tech Ambassador & DIY Guide Creator_
+* ✈️ [**Wingbits**](https://wingbits.com/) — ADS-B Flight Tracking | _Ambassador_
 
 **📡 Navigation & Physical Infrastructure**
 
-* 🛰️ **GEODNET** — High-precision RTK GNSS network
-* 🌊 **MastChain** — Maritime intelligence & AIS vessel tracking
-* 🌤️ **WeatherXM** — Decentralized weather station network
-* 📶 **Helium** — Decentralized wireless IoT & Mobile network
-* 🏠 **Dabba** — Decentralized broadband/Wi-Fi infrastructure in India
+* 🛰️ [**GEODNET**](https://geodnet.com/) — High-precision RTK GNSS network
+* 🌊 [**MastChain**](https://mastchain.io/) — Maritime intelligence & AIS vessel tracking
+* 🌤️ [**WeatherXM**](https://weatherxm.com/) — Decentralized weather station network
+* 📶 [**Helium**](https://www.helium.com/iot) — Decentralized wireless IoT & Mobile network
+* 🏠 [**Dabba**](https://en.dabba.com/) — Decentralized broadband/Wi-Fi infrastructure in India
 
 **🚗 Mobility & Spatial Data**
 
-* 🗺️ **Hivemapper** — Decentralized street-level mapping (Dashcams)
-* 🚗 **ROVR** — Decentralized 3D mapping protocol using LiDAR & RTK
+* 🗺️ [**Hivemapper** ](https://hivemapper.com/)— Decentralized street-level mapping (Dashcams)
+* 🚗 [**ROVR**](https://rovr.network/) — Decentralized 3D mapping protocol using LiDAR & RTK
 
 **💻 Compute, Web3 & Privacy Infrastructure**
 
-* 🔒 **Anyone** — Privacy routing network and hardware relays
-* 🧠 **Acurast** — Decentralized cloud computing using mobile hardware
-* 🔗 **Entropy** — Decentralized storage & developer tooling
-* ⌚ **Cudis** — Web3 smart ring tracking wellness data on Solana
+* 🔒 [**Anyone**](https://www.anyone.io/) — Privacy routing network and hardware relays
+* 🧠 [**Acurast**](https://acurast.com/) — Decentralized cloud computing using mobile hardware
+* 🔗 [**Entropy**](https://justentropy.lol/) — Decentralized storage & developer tooling
+* ⌚ [**Cudis**](https://www.cudis.xyz/) — Web3 smart ring tracking wellness data on Solana
